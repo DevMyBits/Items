@@ -1,5 +1,10 @@
 import java.util.Arrays;
 
+/**
+ * Created on : 27/03/2022
+ * Author     : Yoann Meclot (DevMyBits)
+ * Email      : yoannmeclot@hotmail.com
+ */
 public final class Items
 {
     private static final int MAX_SIZE = Integer.MAX_VALUE - 8;
